@@ -1,6 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
 .interest {
     flex-basis: 16%;
-    border: 1px dotted crimson;
+    border: 1px dotted darkblue;
     padding: 1em;
     margin: 0.5em;
 }
